@@ -1,0 +1,6 @@
+# https://www.ante.pinttap.com robots.txt
+User-agent: *
+Disallow: /*.gif$
+Allow: /*.css$
+Allow: /*.js$
+Sitemap: http://www.ante.pinttap.com/sitemap.xml
